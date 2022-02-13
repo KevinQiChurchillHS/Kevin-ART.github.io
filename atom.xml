@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/</id>
     <title>Kevin Qi Churchill HS ART</title>
-    <updated>2022-02-13T21:32:30.135Z</updated>
+    <updated>2022-02-13T22:58:32.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/"/>
     <link rel="self" href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/atom.xml"/>
@@ -15,17 +15,14 @@
         <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/first-article/</id>
         <link href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/first-article/">
         </link>
-        <updated>2021-09-28T23:35:13.000Z</updated>
+        <updated>2021-09-28T11:35:13.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
 ✍️  The site is created to share my ART works!</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
 ✍️  The site is created to share my ART works!</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea </a><br>
-<a href="http://fehey.com/">Links</a></p>
-<h2 id="features">Features👇</h2>
+<h2 id="my-practice-art">My Practice Art👇</h2>
 <p>📝  Markdown</p>
 <p>🌉  My Art Works<br>
 <img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1644787159709.jpg" alt="" loading="lazy"><br>
@@ -45,7 +42,7 @@
         <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/hello-gridea/</id>
         <link href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-08T23:00:00.000Z</updated>
+        <updated>2018-12-08T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
 ✍️  The site is created to share useful information!</p>
 ]]></summary>
@@ -61,15 +58,7 @@
 <img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1644783685020.jpg" alt="" loading="lazy"><br>
 🏷️  Tags</p>
 <p>📋  Manu</p>
-<p>💻  <strong>Windows</strong>，<strong>MacOS</strong>  <strong>Linux</strong> compatible</p>
 <p>🌎  Linked Sites</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
