@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/</id>
     <title>Kevin Qi Churchill HS ART</title>
-    <updated>2022-02-13T23:05:38.653Z</updated>
+    <updated>2022-12-12T01:22:41.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/"/>
     <link rel="self" href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/atom.xml"/>
@@ -38,36 +38,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[About]]></title>
-        <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/about/</id>
-        <link href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/about/">
-        </link>
-        <updated>2019-01-23T07:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>Nice to meet you！🤝</p>
-</blockquote>
-<h2 id="this-site">🏠 This site</h2>
-<h2 id="who-is-kevin">👨‍💻 Who is Kevin</h2>
-<h2 id="hobbies">⛹ Hobbies</h2>
-<h2 id="contact">📬 Contact</h2>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Art Competition ]]></title>
         <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/hello-gridea/</id>
         <link href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-07T08:00:00.000Z</updated>
+        <updated>2019-12-06T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
-✍️  The site is created to share useful information!</p>
+✍️  The site is created to share my art works!</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
-✍️  The site is created to share useful information!</p>
+✍️  The site is created to share my art works!</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea </a><br>
-<a href="http://fehey.com/">Links</a></p>
-<h2 id="features">Features👇</h2>
+<h2 id="national-state-and-country-competitions">National, State and Country Competitions👇</h2>
 <p>📝  Markdown</p>
 <p>🌉  My Art Works<br>
 <img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1644783685020.jpg" alt="" loading="lazy"><br>
@@ -75,6 +57,24 @@
 <p>📋  Manu</p>
 <p>🌎  Linked Sites</p>
 <p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/about/</id>
+        <link href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/about/">
+        </link>
+        <updated>2017-01-22T05:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>Nice to meet you！🤝</p>
+</blockquote>
+<h2 id="this-site">🏠 This site</h2>
+<h2 id="who-is-kevin">👨‍💻 Who is Kevin</h2>
+<h2 id="hobbies">⛹ Hobbies</h2>
+<p>Fencing<br>
+Biking<br>
+Painting and Digital Arts</p>
+<h2 id="contact">📬 Contact</h2>
 ]]></content>
     </entry>
 </feed>
