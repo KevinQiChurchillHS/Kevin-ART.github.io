@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/</id>
     <title>Kevin Qi Churchill HS ART</title>
-    <updated>2022-12-22T22:10:49.145Z</updated>
+    <updated>2022-12-31T21:48:30.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/"/>
     <link rel="self" href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/first-article/</id>
         <link href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/first-article/">
         </link>
-        <updated>2021-09-27T11:35:13.000Z</updated>
+        <updated>2021-09-26T23:35:13.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
 ✍️  The site is created to share my ART works!</p>
 ]]></summary>
@@ -35,6 +35,14 @@
 (2017 Small Town in Southen China)</p>
 <p><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1644787220892.jpg" alt="" loading="lazy"><br>
 (2012 Plant - Chinese Art)</p>
+<figure data-type="image" tabindex="1"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523132661.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523145484.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523159323.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523168479.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523179973.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523189276.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523198490.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523205595.jpg" alt="" loading="lazy"></figure>
 <p>🏷️  Tags</p>
 <p>📋  Manu</p>
 <p>💻  <strong>Windows</strong>，<strong>MacOS</strong>  <strong>Linux</strong> compatible</p>
@@ -46,7 +54,7 @@
         <id>https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/hello-gridea/</id>
         <link href="https://kevinqichurchillhs.github.io/Kevin-ART.github.io/post/hello-gridea/">
         </link>
-        <updated>2019-12-06T06:00:00.000Z</updated>
+        <updated>2019-12-05T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  Welcome to my site ！<br>
 ✍️  The site is created to share my art works!</p>
 ]]></summary>
@@ -55,9 +63,10 @@
 <!-- more -->
 <h2 id="national-state-and-country-competitions">National, State and Country Competitions👇</h2>
 <p>📝  Markdown</p>
-<p>🌉  My Art Works<br>
-<img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1644783685020.jpg" alt="" loading="lazy"><br>
-🏷️  Tags</p>
+<p>🌉  My Art Competition Submission</p>
+<figure data-type="image" tabindex="1"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1644783685020.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://kevinqichurchillhs.github.io/Kevin-ART.github.io//post-images/1672523280741.jpg" alt="" loading="lazy"></figure>
+<p>🏷️  Tags</p>
 <p>📋  Manu</p>
 <p>🌎  Linked Sites</p>
 <p>😘 Enjoy~</p>
